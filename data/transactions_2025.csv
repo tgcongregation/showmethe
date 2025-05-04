@@ -1,0 +1,151 @@
+category,transaction_date,description,debit,credit,balance
+Income:Contributions:Contributions,2025-01-06,DEPOSIT,0,1441.00,94003.11
+Income:Contributions:Contributions,2025-01-13,DEPOSIT,0,350.00,94353.11
+Income:Contributions:Contributions,2025-01-13,DEPOSIT,0,1047.00,95400.11
+Income:Contributions:Contributions,2025-01-16,STRIPE TRANSFER,0,149.70,95549.81
+Income:Contributions:Contributions,2025-01-21,DEPOSIT,0,1080.00,96629.81
+Income:Contributions:Contributions,2025-01-21,STRIPE TRANSFER,0,100.00,96729.81
+Income:Contributions:Contributions,2025-01-27,DEPOSIT,0,890.00,97619.81
+Income:Contributions:Contributions,2025-02-03,DEPOSIT,0,4034.24,101654.05
+Income:Contributions:Contributions,2025-02-10,DEPOSIT,0,696.00,102350.05
+Income:Contributions:Contributions,2025-02-13,STRIPE TRANSFER,0,50.00,102400.05
+Income:Contributions:Contributions,2025-02-18,DEPOSIT,0,920.00,103320.05
+Income:Contributions:Contributions,2025-02-20,STRIPE TRANSFER,0,100.00,103420.05
+Income:Contributions:Contributions,2025-02-24,DEPOSIT,0,1024.00,104444.05
+Income:Contributions:Contributions,2025-02-25,STRIPE TRANSFER,0,75.00,104519.05
+Income:Contributions:Contributions,2025-03-03,DEPOSIT,0,1355.00,105874.05
+Income:Contributions:Contributions,2025-03-10,DEPOSIT,0,1645.00,107519.05
+Income:Contributions:Contributions,2025-03-17,DEPOSIT,0,985.00,108504.05
+Income:Contributions:Contributions,2025-03-18,STRIPE TRANSFER,0,100.00,108604.05
+Income:Contributions:Contributions,2025-03-31,DEPOSIT,0,600.00,109204.05
+Income:Contributions:Contributions,2025-03-31,DEPOSIT,0,1180.00,110384.05
+Income:Contributions:Contributions,2025-04-07,DEPOSIT,0,1520.00,111904.05
+Income:Contributions:Contributions,2025-04-09,STRIPE TRANSFER,0,70.00,111974.05
+Income:Contributions:Contributions,2025-04-14,DEPOSIT,0,1268.00,113242.05
+Income:Contributions:Contributions,2025-04-17,STRIPE TRANSFER,0,100.00,113342.05
+Income:Contributions:Contributions,2025-04-21,DEPOSIT,0,1178.00,114520.05
+Income:Contributions:Contributions,2025-04-23,STRIPE TRANSFER,0,75.00,114595.05
+Income:Contributions:Contributions,2025-04-24,THRIVENTGRANT GRBATCHPAY 250423,0,22.00,114617.05
+Income:Contributions:Contributions,2025-04-28,DEPOSIT,0,1780.00,116397.05
+Income:Savings:Interest,2025-01-31,INTEREST PAYMENT,0,49.61,335.42
+Income:Savings:Interest,2025-02-28,INTEREST PAYMENT,0,45.31,380.73
+Income:Savings:Interest,2025-03-31,INTEREST PAYMENT,0,50.69,431.42
+Income:Savings:Interest,2025-04-30,INTEREST PAYMENT,0,49.50,480.92
+Income:Daycare:Reimbursement,2025-02-07,Zelle Transaction 2025020714,0,460.00,-102.50
+Income:Daycare:Reimbursement,2025-02-07,Daycare utilities reimbursement,460.00,0,-562.50
+Income:Daycare:Reimbursement,2025-03-21,Zelle Transaction 2025032114,0,200.00,-362.50
+Income:Daycare:Reimbursement,2025-03-21,Daycare utilities reimbursement,200.00,0,-562.50
+Income:Daycare:Reimbursement,2025-04-04,Zelle Transaction 2025040411,0,260.00,-302.50
+Income:Daycare:Reimbursement,2025-04-04,Daycare utilities reimbursement,260.00,0,-562.50
+Income:Daycare:Reimbursement,2025-05-02,Zelle Transaction 2025050218,0,460.00,-102.50
+Income:Daycare:Reimbursement,2025-05-02,Daycare utilities reimbursement,460.00,0,-562.50
+Income:Restricted:Nursery/Children's Ministry,2025-01-21,DEPOSIT,0,40.00,610.00
+Income:Restricted:Nursery/Children's Ministry,2025-01-27,DEPOSIT,0,100.00,710.00
+Facilities:Insurance:Insurance,2025-01-08,PURCHASE LIBERTY MUTU,60.30,0,909.51
+Facilities:Insurance:Insurance,2025-02-10,PURCHASE LIBERTY MUTU,60.30,0,969.81
+Facilities:Insurance:Insurance,2025-03-10,PURCHASE LIBERTY MUTU,60.30,0,1030.11
+Facilities:Insurance:Insurance,2025-04-08,PURCHASE LIBERTY MUTU,60.30,0,1090.41
+Facilities:Maintenance:Maintenance,2025-04-04,SILCO FIRE & PAYMENT 250404,6.40,0,1756.99
+Facilities:Rent:Rent,2025-01-13,"PNC BANK, OHI PAYMENT 250112",1500.00,0,25200.00
+Facilities:Rent:Rent,2025-02-12,"PNC BANK, OHI PAYMENT 250212",1500.00,0,26700.00
+Facilities:Rent:Rent,2025-03-12,"PNC BANK, OHI PAYMENT 250312",1500.00,0,28200.00
+Facilities:Rent:Rent,2025-04-14,"PNC BANK, OHI PAYMENT 250412",1500.00,0,29700.00
+Facilities:Utilities:Electric,2025-01-08,FIRSTENERGY OPCOACH,278.20,0,5549.69
+Facilities:Utilities:Electric,2025-02-12,FirstEnergy OPCO-ACH 250212,333.96,0,5883.65
+Facilities:Utilities:Electric,2025-03-12,FirstEnergy OPCO-ACH 250312,364.08,0,6247.73
+Facilities:Utilities:Electric,2025-04-10,FirstEnergy OPCO-ACH 250410,280.81,0,6528.54
+Facilities:Utilities:Gas,2025-02-04,ENBRIDGE GAS OHIBILLPAY 250203,575.87,0,4296.73
+Facilities:Utilities:Gas,2025-03-04,ENBRIDGE GAS OHIBILLPAY 250303,621.43,0,4918.16
+Facilities:Utilities:Gas,2025-04-02,ENBRIDGE GAS OHIBILLPAY 250401,440.01,0,5358.17
+Facilities:Utilities:Internet,2025-01-07,AT&T,110.27,0,1803.42
+Facilities:Utilities:Internet,2025-02-10,AT&T,110.27,0,1913.69
+Facilities:Utilities:Internet,2025-03-11,AT&T,110.27,0,2023.96
+Facilities:Utilities:Internet,2025-04-08,AT&T,110.27,0,2134.23
+Facilities:Utilities:Reimbursement,2025-02-07,Daycare utilities reimbursement,0,460.00,-3682.50
+Facilities:Utilities:Reimbursement,2025-03-21,Daycare utilities reimbursement,0,200.00,-3882.50
+Facilities:Utilities:Reimbursement,2025-04-04,Daycare utilities reimbursement,0,260.00,-4142.50
+Facilities:Utilities:Reimbursement,2025-05-02,Daycare utilities reimbursement,0,460.00,-4602.50
+Facilities:Utilities:Security,2025-01-15,GUARDIAN ALAR PAYMENT 250115,42.40,0,1234.06
+Facilities:Utilities:Security,2025-02-18,GUARDIAN ALAR PAYMENT 250215,42.40,0,1276.46
+Facilities:Utilities:Security,2025-03-17,GUARDIAN ALAR PAYMENT 250315,42.40,0,1318.86
+Facilities:Utilities:Security,2025-04-15,GUARDIAN ALAR PAYMENT 250415,42.40,0,1361.26
+Facilities:Utilities:Trash,2025-01-03,PURCHASE MAJOR WASTE,77.18,0,477.70
+Facilities:Utilities:Trash,2025-02-03,PURCHASE MAJOR WASTE,77.18,0,554.88
+Facilities:Utilities:Trash,2025-03-04,PURCHASE MAJOR WASTE,77.18,0,632.06
+Facilities:Utilities:Trash,2025-04-01,PURCHASE MAJOR WASTE,77.18,0,709.24
+Facilities:Utilities:Trash,2025-05-02,PURCHASE MAJOR WASTE,77.18,0,786.42
+Facilities:Utilities:Water,2025-01-16,AQUA AQUA SERVI250116,29.89,0,580.20
+Facilities:Utilities:Water,2025-02-18,AQUA AQUA SERVI250218,28.77,0,608.97
+Facilities:Utilities:Water,2025-03-20,AQUA AQUA SERVI250320,27.10,0,636.07
+Facilities:Utilities:Water,2025-04-17,AQUA AQUA SERVI250417,31.81,0,667.88
+Ministry:Adult:RightNow Media,2025-01-15,PURCHASE RIGHTNOW MED,69.99,0,1189.83
+Ministry:Adult:RightNow Media,2025-02-18,PURCHASE RIGHTNOW M*,69.99,0,1259.82
+Ministry:Adult:RightNow Media,2025-03-17,PURCHASE RIGHTNOW M*,69.99,0,1329.81
+Ministry:Adult:RightNow Media,2025-04-15,PURCHASE RIGHTNOW M*,69.99,0,1399.80
+Ministry:Hospitality:Congregational Meals and Events,2025-04-11,PURCHASE SAMS CLUB SA,7.48,0,1183.10
+Ministry:Hospitality:Welcome Table,2025-02-06,PURCHASE SAMSCLUB.COM,69.90,0,1120.51
+Ministry:Hospitality:Welcome Table,2025-02-12,PURCHASE SAMSCLUB.COM,58.54,0,1179.05
+Ministry:Hospitality:Welcome Table,2025-03-17,PURCHASE SAMSCLUB #48,85.58,0,1264.63
+Ministry:Hospitality:Welcome Table,2025-04-21,Dunkin' Donuts,15.00,0,1279.63
+Ministry:Hospitality:Welcome Table,2025-04-21,Dunkin' Donuts,9.00,0,1288.63
+Ministry:Pastoral:Meals/Entertainment,2025-01-21,PURCHASE TST*MARYS DI,20.88,0,545.56
+Ministry:Pastoral:Meals/Entertainment,2025-02-03,PURCHASE TST* THE SPO,29.99,0,575.55
+Ministry:Pastoral:Meals/Entertainment,2025-02-06,Panera Bread,23.57,0,599.12
+Ministry:Pastoral:Meals/Entertainment,2025-03-24,PURCHASE MARCOS PIZZA,69.71,0,668.83
+Ministry:Pastoral:Meals/Entertainment,2025-04-29,PURCHASE TST*MARYS DI,32.29,0,701.12
+Ministry:Pastoral:Training,2025-03-20,PURCHASE LEAD WELL,20.00,0,1585.75
+Ministry:Worship:Proclaim,2025-01-23,PURCHASE LOGOS,13.00,0,489.11
+Ministry:Worship:Proclaim,2025-02-24,PURCHASE LOGOS,13.00,0,502.11
+Ministry:Worship:Proclaim,2025-03-24,PURCHASE LOGOS,13.00,0,515.11
+Ministry:Worship:Proclaim,2025-04-23,PURCHASE LOGOS,13.00,0,528.11
+Mission/Outreach:Missions:Destiny Rescue,2025-01-13,PURCHASE DESTINY RESC,100.00,0,1800.00
+Mission/Outreach:Missions:Destiny Rescue,2025-02-11,PURCHASE DESTINY RESC,100.00,0,1900.00
+Mission/Outreach:Missions:Destiny Rescue,2025-03-11,PURCHASE DESTINY RESC,100.00,0,2000.00
+Mission/Outreach:Missions:Destiny Rescue,2025-04-11,PURCHASE DESTINY RESC,100.00,0,2100.00
+Mission/Outreach:Missions:FCA,2025-01-21,Fellowship of ChFellowship,100.00,0,1200.00
+Mission/Outreach:Missions:FCA,2025-02-21,Fellowship of ChFellowship,100.00,0,1300.00
+Mission/Outreach:Missions:FCA,2025-03-21,Fellowship of ChFellowship,100.00,0,1400.00
+Mission/Outreach:Missions:FCA,2025-04-21,Fellowship of ChFellowship,100.00,0,1500.00
+Mission/Outreach:Missions:Hope Force,2025-01-21,PURCHASE PY *HOPE FOR,35.38,0,600.62
+Mission/Outreach:Missions:Hope Force,2025-02-21,PURCHASE PY *HOPE FOR,35.38,0,636.00
+Mission/Outreach:Missions:Hope Force,2025-03-21,PURCHASE PY *HOPE FOR,35.38,0,671.38
+Mission/Outreach:Missions:Hope Force,2025-04-21,PURCHASE PY *HOPE FOR,35.38,0,706.76
+Mission/Outreach:Missions:Jeff Sivyer,2025-01-10,KEYBANK PAYMENT 250110,100.00,0,1601.00
+Mission/Outreach:Missions:Jeff Sivyer,2025-02-10,KEYBANK PAYMENT 250210,100.00,0,1701.00
+Mission/Outreach:Missions:Jeff Sivyer,2025-03-10,KEYBANK PAYMENT 250310,100.00,0,1801.00
+Mission/Outreach:Missions:Jeff Sivyer,2025-04-10,KEYBANK PAYMENT 250410,100.00,0,1901.00
+Mission/Outreach:Missions:Reliant - Jared Lentz,2025-01-06,RELIANT MISSION EFT GIFTS,150.00,0,1950.00
+Mission/Outreach:Missions:Reliant - Jared Lentz,2025-02-05,RELIANT MISSION EFT GIFTS,150.00,0,2100.00
+Mission/Outreach:Missions:Reliant - Jared Lentz,2025-03-05,RELIANT MISSION EFT GIFTS,150.00,0,2250.00
+Mission/Outreach:Missions:Reliant - Jared Lentz,2025-04-07,RELIANT MISSION EFT GIFTS,150.00,0,2400.00
+Mission/Outreach:Missions:World Vision,2025-01-27,PURCHASE WORLD VISION,105.00,0,1295.00
+Mission/Outreach:Missions:World Vision,2025-02-26,PURCHASE WORLD VISION,105.00,0,1400.00
+Mission/Outreach:Missions:World Vision,2025-03-26,PURCHASE WORLD VISION,105.00,0,1505.00
+Mission/Outreach:Missions:World Vision,2025-04-28,PURCHASE WORLD VISION,105.00,0,1610.00
+Operating Expenses:Advertising:Website,2025-03-17,Zelle Transaction 2025031620,149.80,0,149.80
+Operating Expenses:Bank:Bank,2025-02-18,ZELLE PAYMENTS RECEIVED FEE,0.50,0,217.10
+Operating Expenses:Bank:Bank,2025-02-18,MONTHLY SERVICE FEE,20.00,0,237.10
+Operating Expenses:Bank:Bank,2025-03-17,ZELLE PAYMENTS RECEIVED FEE,0.50,0,237.60
+Operating Expenses:Bank:Bank,2025-04-15,ZELLE PAYMENTS SENT FEE,0.50,0,238.10
+Operating Expenses:Bank:Bank,2025-04-15,ZELLE PAYMENTS RECEIVED FEE,0.50,0,238.60
+Operating Expenses:Software:Planning Center,2025-01-07,PURCHASE PLANNINGCENT,30.00,0,506.08
+Operating Expenses:Software:Planning Center,2025-02-07,PURCHASE PLANNINGCENT,30.00,0,536.08
+Operating Expenses:Software:Planning Center,2025-03-07,PURCHASE PLANNINGCENT,30.00,0,566.08
+Operating Expenses:Software:Planning Center,2025-04-07,PURCHASE PLANNINGCENT,30.00,0,596.08
+Operating Expenses:Supplies:Cleaning,2025-01-06,HUNTINGTON NA PAYMENT 250106,16.05,0,316.39
+Operating Expenses:Supplies:Cleaning,2025-03-04,PURCHASE MERCYHILLCHA,30.00,0,346.39
+Operating Expenses:Supplies:Office,2025-04-11,PURCHASE AMAZON.COM*0,44.99,0,1461.95
+Operating Expenses:Supplies:Office,2025-04-18,PURCHASE AMAZON.COM*S,19.49,0,1481.44
+Salary:Staff:Pastor,2025-01-02,Michael Kostelnik,1008.38,0,31526.36
+Salary:Staff:Pastor,2025-01-16,CARDINAL CRED PAYMENT 250116,1008.38,0,32534.74
+Salary:Staff:Pastor,2025-01-30,CARDINAL CRED PAYMENT 250130,1008.38,0,33543.12
+Salary:Staff:Pastor,2025-02-13,CARDINAL CRED PAYMENT 250213,1008.38,0,34551.50
+Salary:Staff:Pastor,2025-02-27,CARDINAL CRED PAYMENT 250227,1008.38,0,35559.88
+Salary:Staff:Pastor,2025-03-13,CARDINAL CRED PAYMENT 250313,1008.38,0,36568.26
+Salary:Staff:Pastor,2025-03-27,CARDINAL CRED PAYMENT 250327,1008.38,0,37576.64
+Salary:Staff:Pastor,2025-04-10,CARDINAL CRED PAYMENT 250410,1008.38,0,38585.02
+Salary:Staff:Pastor,2025-04-24,CARDINAL CRED PAYMENT 250424,1008.38,0,39593.40
+Salary:Staff:Praise Leader,2025-01-24,WELLS FARGO B PAYMENT 250124,400.00,0,4400.00
+Salary:Staff:Praise Leader,2025-02-24,WELLS FARGO B PAYMENT 250224,400.00,0,4800.00
+Salary:Staff:Praise Leader,2025-03-24,WELLS FARGO B PAYMENT 250324,400.00,0,5200.00
+Salary:Staff:Praise Leader,2025-04-24,WELLS FARGO B PAYMENT 250424,400.00,0,5600.00

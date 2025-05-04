@@ -1,0 +1,54 @@
+level1,level2,level3,amount,income
+Income,Contributions,Contributions,66000.00,True
+Mission/Outreach,Missions,Reliant - Jared Lentz,1800.00,False
+Mission/Outreach,Missions,World Vision,1260.00,False
+Mission/Outreach,Missions,Hope Force,424.56,False
+Mission/Outreach,Missions,Destiny Rescue,1200.00,False
+Mission/Outreach,Missions,Jeff Sivyer,1200.00,False
+Mission/Outreach,Missions,FCA,1200.00,False
+Mission/Outreach,Missions,Undesignated,0.00,False
+Facilities,Rent,Rent,18000.00,False
+Facilities,Utilities,Water,480.00,False
+Facilities,Utilities,Internet,1332.00,False
+Facilities,Utilities,Gas,924.00,False
+Facilities,Utilities,Electric,2520.00,False
+Facilities,Utilities,Trash,840.00,False
+Facilities,Utilities,Security,1200.00,False
+Facilities,Utilities,Reimbursement,4976.00,True
+Facilities,Maintenance,Maintenance,2940.00,False
+Facilities,Insurance,Insurance,672.00,False
+Salary,Staff,Pastor,24177.12,False
+Facilities,Staff,Pulpit and Worship Supply,0.00,False
+Salary,Staff,Praise Leader,4800.00,False
+Operating Expenses,Supplies,Cleaning ,600.00,False
+Operating Expenses,Supplies,Office,1600.00,False
+Operating Expenses,Supplies,Greeting Cards,0.00,False
+Operating Expenses,Software,Planning Center,360.00,False
+Operating Expenses,Advertising,Ads,0.00,False
+Ministry,Adult,Books,0.00,False
+Ministry,Adult,Mens *,0.00,False
+Ministry,Adult,Womens *,200.00,False
+Ministry,Adult,Precious Care *,0.00,False
+Ministry,Adult,Crafting *,0.00,False
+Ministry,Adult,Family Ministry *,0.00,False
+Ministry,Adult,RightNow Media,840.00,False
+Ministry,Adult,Sermon Shots,0.00,False
+Ministry,Youth,Pre-school *,0.00,False
+Ministry,Youth,Childrens,500.00,False
+Ministry,Youth,Youth *,0.00,False
+Ministry,Worship,Proclaim,168.00,False
+Ministry,Worship,CCLI,500.00,False
+Ministry,Technology,Website,150.00,False
+Ministry,Technology,Sound Booth,0.00,False
+Ministry,Hospitality,Welcome Table,600.00,False
+Ministry,Hospitality,Congregational Meals and Events,300.00,False
+Ministry,Prayer *,Supplies *,0.00,False
+Ministry,Pastoral,Education,0.00,False
+Ministry,Pastoral,Training,300.00,False
+Ministry,Pastoral,Meals/Entertainment,0.00,False
+Ministry,Pastoral,Discretionary *,300.00,False
+Ministry,Deacon and Elders,Benevolence,600.00,False
+Ministry,Deacon and Elders,Discretionary *,500.00,False
+Ministry,Deacon and Elders,Care portal,1800.00,False
+Ministry,Deacon and Elders,Training,0.00,False
+Ministry,Ministry council *,Discretionary *,1500.00,False
