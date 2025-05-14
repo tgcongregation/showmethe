@@ -41,15 +41,20 @@ Income:Daycare:Reimbursement,2025-05-02,Zelle Transaction 2025050218,0,460.00,-1
 Income:Daycare:Reimbursement,2025-05-02,Daycare utilities reimbursement,460.00,0,-562.50
 Income:Restricted:Nursery/Children's Ministry,2025-01-21,DEPOSIT,0,40.00,610.00
 Income:Restricted:Nursery/Children's Ministry,2025-01-27,DEPOSIT,0,100.00,710.00
+Uncategorized Income,2025-05-05,DEPOSIT,0,1929.00,1929.00
+Uncategorized Income,2025-05-07,STRIPE TRANSFER,0,360.00,2289.00
+Uncategorized Income,2025-05-12,DEPOSIT,0,1075.00,3364.00
 Facilities:Insurance:Insurance,2025-01-08,PURCHASE LIBERTY MUTU,60.30,0,909.51
 Facilities:Insurance:Insurance,2025-02-10,PURCHASE LIBERTY MUTU,60.30,0,969.81
 Facilities:Insurance:Insurance,2025-03-10,PURCHASE LIBERTY MUTU,60.30,0,1030.11
 Facilities:Insurance:Insurance,2025-04-08,PURCHASE LIBERTY MUTU,60.30,0,1090.41
+Facilities:Insurance:Insurance,2025-05-08,PURCHASE LIBERTY MUTU,60.30,0,1150.71
 Facilities:Maintenance:Maintenance,2025-04-04,SILCO FIRE & PAYMENT 250404,6.40,0,1756.99
 Facilities:Rent:Rent,2025-01-13,"PNC BANK, OHI PAYMENT 250112",1500.00,0,25200.00
 Facilities:Rent:Rent,2025-02-12,"PNC BANK, OHI PAYMENT 250212",1500.00,0,26700.00
 Facilities:Rent:Rent,2025-03-12,"PNC BANK, OHI PAYMENT 250312",1500.00,0,28200.00
 Facilities:Rent:Rent,2025-04-14,"PNC BANK, OHI PAYMENT 250412",1500.00,0,29700.00
+Facilities:Rent:Rent,2025-05-12,"PNC BANK, OHI PAYMENT 250512",1500.00,0,31200.00
 Facilities:Utilities:Electric,2025-01-08,FIRSTENERGY OPCOACH,278.20,0,5549.69
 Facilities:Utilities:Electric,2025-02-12,FirstEnergy OPCO-ACH 250212,333.96,0,5883.65
 Facilities:Utilities:Electric,2025-03-12,FirstEnergy OPCO-ACH 250312,364.08,0,6247.73
@@ -61,6 +66,7 @@ Facilities:Utilities:Internet,2025-01-07,AT&T,110.27,0,1803.42
 Facilities:Utilities:Internet,2025-02-10,AT&T,110.27,0,1913.69
 Facilities:Utilities:Internet,2025-03-11,AT&T,110.27,0,2023.96
 Facilities:Utilities:Internet,2025-04-08,AT&T,110.27,0,2134.23
+Facilities:Utilities:Internet,2025-05-09,AT&T,110.27,0,2244.50
 Facilities:Utilities:Reimbursement,2025-02-07,Daycare utilities reimbursement,0,460.00,-3682.50
 Facilities:Utilities:Reimbursement,2025-03-21,Daycare utilities reimbursement,0,200.00,-3882.50
 Facilities:Utilities:Reimbursement,2025-04-04,Daycare utilities reimbursement,0,260.00,-4142.50
@@ -98,10 +104,12 @@ Ministry:Worship:Proclaim,2025-01-23,PURCHASE LOGOS,13.00,0,489.11
 Ministry:Worship:Proclaim,2025-02-24,PURCHASE LOGOS,13.00,0,502.11
 Ministry:Worship:Proclaim,2025-03-24,PURCHASE LOGOS,13.00,0,515.11
 Ministry:Worship:Proclaim,2025-04-23,PURCHASE LOGOS,13.00,0,528.11
+Ministry:Worship:Proclaim,2025-05-05,PURCHASE LOGOS,267.48,0,795.59
 Mission/Outreach:Missions:Destiny Rescue,2025-01-13,PURCHASE DESTINY RESC,100.00,0,1800.00
 Mission/Outreach:Missions:Destiny Rescue,2025-02-11,PURCHASE DESTINY RESC,100.00,0,1900.00
 Mission/Outreach:Missions:Destiny Rescue,2025-03-11,PURCHASE DESTINY RESC,100.00,0,2000.00
 Mission/Outreach:Missions:Destiny Rescue,2025-04-11,PURCHASE DESTINY RESC,100.00,0,2100.00
+Mission/Outreach:Missions:Destiny Rescue,2025-05-12,PURCHASE DESTINY RESC,100.00,0,2200.00
 Mission/Outreach:Missions:FCA,2025-01-21,Fellowship of ChFellowship,100.00,0,1200.00
 Mission/Outreach:Missions:FCA,2025-02-21,Fellowship of ChFellowship,100.00,0,1300.00
 Mission/Outreach:Missions:FCA,2025-03-21,Fellowship of ChFellowship,100.00,0,1400.00
@@ -114,10 +122,12 @@ Mission/Outreach:Missions:Jeff Sivyer,2025-01-10,KEYBANK PAYMENT 250110,100.00,0
 Mission/Outreach:Missions:Jeff Sivyer,2025-02-10,KEYBANK PAYMENT 250210,100.00,0,1701.00
 Mission/Outreach:Missions:Jeff Sivyer,2025-03-10,KEYBANK PAYMENT 250310,100.00,0,1801.00
 Mission/Outreach:Missions:Jeff Sivyer,2025-04-10,KEYBANK PAYMENT 250410,100.00,0,1901.00
+Mission/Outreach:Missions:Jeff Sivyer,2025-05-12,KEYBANK PAYMENT 250510,100.00,0,2001.00
 Mission/Outreach:Missions:Reliant - Jared Lentz,2025-01-06,RELIANT MISSION EFT GIFTS,150.00,0,1950.00
 Mission/Outreach:Missions:Reliant - Jared Lentz,2025-02-05,RELIANT MISSION EFT GIFTS,150.00,0,2100.00
 Mission/Outreach:Missions:Reliant - Jared Lentz,2025-03-05,RELIANT MISSION EFT GIFTS,150.00,0,2250.00
 Mission/Outreach:Missions:Reliant - Jared Lentz,2025-04-07,RELIANT MISSION EFT GIFTS,150.00,0,2400.00
+Mission/Outreach:Missions:Reliant - Jared Lentz,2025-05-05,RELIANT MISSION EFT GIFTS,150.00,0,2550.00
 Mission/Outreach:Missions:World Vision,2025-01-27,PURCHASE WORLD VISION,105.00,0,1295.00
 Mission/Outreach:Missions:World Vision,2025-02-26,PURCHASE WORLD VISION,105.00,0,1400.00
 Mission/Outreach:Missions:World Vision,2025-03-26,PURCHASE WORLD VISION,105.00,0,1505.00
@@ -132,6 +142,7 @@ Operating Expenses:Software:Planning Center,2025-01-07,PURCHASE PLANNINGCENT,30.
 Operating Expenses:Software:Planning Center,2025-02-07,PURCHASE PLANNINGCENT,30.00,0,536.08
 Operating Expenses:Software:Planning Center,2025-03-07,PURCHASE PLANNINGCENT,30.00,0,566.08
 Operating Expenses:Software:Planning Center,2025-04-07,PURCHASE PLANNINGCENT,30.00,0,596.08
+Operating Expenses:Software:Planning Center,2025-05-07,PURCHASE PLANNINGCENT,30.00,0,626.08
 Operating Expenses:Supplies:Cleaning,2025-01-06,HUNTINGTON NA PAYMENT 250106,16.05,0,316.39
 Operating Expenses:Supplies:Cleaning,2025-03-04,PURCHASE MERCYHILLCHA,30.00,0,346.39
 Operating Expenses:Supplies:Office,2025-04-11,PURCHASE AMAZON.COM*0,44.99,0,1461.95
@@ -149,3 +160,7 @@ Salary:Staff:Praise Leader,2025-01-24,WELLS FARGO B PAYMENT 250124,400.00,0,4400
 Salary:Staff:Praise Leader,2025-02-24,WELLS FARGO B PAYMENT 250224,400.00,0,4800.00
 Salary:Staff:Praise Leader,2025-03-24,WELLS FARGO B PAYMENT 250324,400.00,0,5200.00
 Salary:Staff:Praise Leader,2025-04-24,WELLS FARGO B PAYMENT 250424,400.00,0,5600.00
+Uncategorized Expense,2025-05-06,ENBRIDGE GAS OHIBILLPAY 250505,329.15,0,329.15
+Uncategorized Expense,2025-05-08,PURCHASE AMAZON.COM*N,39.96,0,369.11
+Uncategorized Expense,2025-05-08,CARDINAL CRED PAYMENT 250508,1008.38,0,1377.49
+Uncategorized Expense,2025-05-09,FirstEnergy OPCO-ACH 250509,253.43,0,1630.92
